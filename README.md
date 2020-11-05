@@ -6,6 +6,5 @@ All images are 224 X 224 X 3 color images in jpg format.
 DATASET : https://www.kaggle.com/gpiosenka/100-bird-species  :link:
 * PreTrained Model Used  :pencil2:
   * VGG16
-  * MobileNetV2
   </br>
 ![](https://media.giphy.com/media/vVWUEFDUVItxu/giphy.gif)
